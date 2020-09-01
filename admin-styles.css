@@ -1,0 +1,20 @@
+#fpe h3 {
+    cursor: pointer;
+}
+
+#fpe h3.active {
+    color: #8E2120;
+}
+
+#fpe .form-table {
+    display:none;
+}
+
+#fpe .form-table.show {
+    display: block;
+}
+
+#fpe .small-text {
+    width: 100px;
+    text-align: right;
+}
