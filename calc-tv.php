@@ -5,7 +5,7 @@
 		'pilot' => 'Pilot',
 		'speciality_act' => 'Speciality Act',
 		'dancer' => 'Dancer',
-		'actor_off_camera' => 'Off-Cameral Principal (Ex. Voiceover)',
+		'actor_off_camera' => 'Off-Cameral Principal',
 		'singer' => 'Singer',
 		'extra' => 'Extra Performer',
 	];
@@ -128,7 +128,7 @@
 </div>
 
 <div id="tv-stop" class="question">
-    <h4>Would you like to estimate performer usage costs?</h4>
+    <h4>Would you like to estimate usage costs?</h4>
     <div class="answer" data-follow="tv_broadcast">Yes</div>
     <div class="answer">No, estimate for talent session fees only</div>
 </div>
