@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Falcon Estimator 1.1
+Plugin Name: Falcon Estimator
 Description: Estimator plugin for Falcon Paymasters
 Author: Radu Dragomir
 */
